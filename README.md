@@ -1,1 +1,1 @@
-# calcu-lator
+Calculator
